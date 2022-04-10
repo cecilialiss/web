@@ -1,4 +1,4 @@
-,State,Number of establishments (ESTAB),Year,Adult.Obesity,Adult.Obesity*100,Average.Age,Average.Income,Population,Poverty.Rate,Poverty.Rate*100,Real.GDP,Real.GDP.Growth,Real.GDP.Growth*100,Real.Personal.Income,Region,Region.Encoding,Unit,Real.GDP.Per.Capita,BigMacPrice
+,State,Number of establishments (ESTAB),Year,AdultObesity,Adult.Obesity*100,Average.Age,Average.Income,Population,Poverty.Rate,Poverty.Rate*100,Real.GDP,Real.GDP.Growth,Real.GDP.Growth*100,Real.Personal.Income,Region,Region.Encoding,Unit,Real.GDP.Per.Capita,BigMacPrice
 0,Alabama,"3,964",2017,0.340000004,34.0,39.17638392,26471.72046,4874747,0.168889188,16.89,193053.0,0.0181,1.81,215669.8,Southeast Region,5,Millions of chained 2012 dollars,0.039602671,3.99
 1,Alaska,456,2017,0.287,28.7,35.59140302,34438.53759,739795,0.111054975,11.11,52492.0,-0.0022,-0.22,38119.9,Far West Region,8,Millions of chained 2012 dollars,0.070954792,4.87
 2,Arizona,"4,880",2017,0.261000007,26.1,38.68951409,29420.61094,7016270,0.148618005,14.86,297209.8,0.0295,2.95,294575.6,Southwest Region,6,Millions of chained 2012 dollars,0.042360086,4.43
